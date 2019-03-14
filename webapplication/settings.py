@@ -78,9 +78,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'webapp',
-        'USER': 'root',
-        'PASSWORD': 'soumya',
-        'HOST': 'localhost',
+        'USER': 'soumyajit2pal',
+        'PASSWORD': 'soumya1997',
+        'HOST': 'soumyajit2pal.mysql.pythonanywhere-services.com',
         'PORT': '3306',
     }
 }
